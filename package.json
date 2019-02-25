@@ -1,0 +1,9 @@
+{
+  "name": "luohong",
+  "version": "1.0.0",
+  "description": "小红红的前端知识架构梳理",
+  "main": "index.js",
+  "repository": "https://github.com/luohong123/blog.git",
+  "author": "luohong123 <3300536651@qq.com>",
+  "license": "MIT"
+}
