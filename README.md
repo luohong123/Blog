@@ -1,6 +1,6 @@
 # 前言
 青成记录博客的地方，整理个人的学习笔记和优秀的资源，持续学习，天天向上！
-# 一、个人技术沉淀和总结
+# 一、个人技术沉淀和前端知识总结
 ## （一）读书笔记
 - [x] [《JavaScript高级程序设计》学习笔记](https://github.com/luohong123/js-advance-program)https://github.com/luohong123/js-advance-program
 - [ ] [《你不知道的Javascript  (上)》学习笔记]()
