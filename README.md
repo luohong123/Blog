@@ -35,11 +35,11 @@
 
 # 二、向优秀的人学习
 # （一）值得学习的博客收藏
-[【yck的博客】](https://github.com/KieSun/Dream)https://github.com/KieSun/Dream
-[【ConardLi的博客】](https://github.com/ConardLi/ConardLi.github.io)https://github.com/ConardLi/ConardLi.github.io
-[【木易杨的博客】](https://github.com/yygmind)https://github.com/yygmind
-[【梁少峰的博客】](https://github.com/youngwind/blog)https://github.com/youngwind/blog
-[【MuYunyun的博客】对前端知识架构的梳理](https://github.com/MuYunyun/blog)https://github.com/MuYunyun/blog
+- [【yck的博客】](https://github.com/KieSun/Dream)https://github.com/KieSun/Dream
+- [【ConardLi的博客】](https://github.com/ConardLi/ConardLi.github.io)https://github.com/ConardLi/ConardLi.github.io
+- [【木易杨的博客】](https://github.com/yygmind)https://github.com/yygmind
+- [【梁少峰的博客】](https://github.com/youngwind/blog)https://github.com/youngwind/blog
+- [【MuYunyun的博客】对前端知识架构的梳理](https://github.com/MuYunyun/blog)https://github.com/MuYunyun/blog
 
 # （二）GitHub优质开源收藏
 - [【awesome-fe-study-source】](https://github.com/KieSun/awesome-fe-study-source)https://github.com/KieSun/awesome-fe-study-source
