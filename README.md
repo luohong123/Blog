@@ -45,4 +45,9 @@
 - [【冴羽的博客】](https://github.com/mqyqingfeng/Blog)https://github.com/mqyqingfeng/Blog
 - [【岁月如歌的博客】](https://github.com/lifesinger/blog)https://github.com/lifesinger/blog
 
-# （二）
+# （二）GitHub优质开源收藏
+- [【awesome-fe-study-source】](https://github.com/KieSun/awesome-fe-study-source)https://github.com/KieSun/awesome-fe-study-source
+- [【前端九部】前端入门者手册](https://www.yuque.com/fe9/basic/pmn63k)https://www.yuque.com/fe9/basic/pmn63k
+- [【前端面试图谱】](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+- [【Weekly-FE-Interview】](https://github.com/airuikun/Weekly-FE-Interview)
+- [【Step-By-Step】](https://github.com/YvetteLau/Step-By-Step)
