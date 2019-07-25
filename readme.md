@@ -35,8 +35,8 @@
 - [ ] [ 动态规划 ]()
 - [ ] [ 贪心算法 ]()
 
-# 二、向优秀的人学习
-# （一）值得学习的博客收藏
+# 二、资源总结
+# （一）博客收藏
 - [【yck的博客】](https://github.com/KieSun/Dream)https://github.com/KieSun/Dream
 - [【ConardLi的博客】](https://github.com/ConardLi/ConardLi.github.io)https://github.com/ConardLi/ConardLi.github.io
 - [【木易杨的博客】](https://github.com/yygmind)https://github.com/yygmind
@@ -51,3 +51,6 @@
 - [【前端面试图谱】](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)https://github.com/InterviewMap/CS-Interview-Knowledge-Map
 - [【Weekly-FE-Interview】](https://github.com/airuikun/Weekly-FE-Interview)
 - [【Step-By-Step】](https://github.com/YvetteLau/Step-By-Step)
+- [【threejs Texture-Animation】](https://github.com/stemkoski/stemkoski.github.com/blob/master/Three.js/Texture-Animation.html)
+
+# (三)优秀文章
