@@ -18,7 +18,7 @@
 
 ### 其它
 - [如何远程部署CentOS前后端项目的思路](https://juejin.im/post/5df9e782e51d45584b585d11)
-## 我的vlog
+## 我的vlog视频录制
 - [【程序员】Web前端开发工程师的技术书籍分享](https://www.bilibili.com/video/BV1V7411K7km)
 - [【前端开发必备】GitHub源码查看技巧-chrome浏览器扩展程序插件Octotree](https://www.bilibili.com/video/BV1pE411M7NS)
 
