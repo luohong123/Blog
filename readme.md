@@ -13,6 +13,7 @@
 - [Angular8 + ng.ant.design 开箱即用](https://juejin.im/post/5d24045751882579da1ef4e8)
 - [如何在angular中进行单元测试]()
 - [Angular一键打包20个不同的环境配置](https://juejin.im/post/5d3ffcb25188255d7953e9ea)
+- [Angular8中集成lodap打印功能](https://juejin.im/post/5dd5e998e51d4551e11f9d7c#heading-13)
 ### 微信小程序
 - [van+mpvue微信小程序入门]()
 
