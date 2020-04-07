@@ -31,7 +31,7 @@
 分享优质、有趣、精致的前端技术知识文章，前端持续学习与进阶。
 感谢您的关注！
 
-<img src="https://github.com/luohong123/Blog/blob/master/assets/%E6%89%AB%E7%A0%81%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" alt="扫描关注公众号" width="95" />
+<img src="https://github.com/luohong123/Blog/blob/master/assets/WECHAT.jpg" alt="扫码关注公众号" width="95%" />
 
 ## 版权声明
 所有的原创文章的著作权属于 青成
