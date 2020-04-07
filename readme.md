@@ -7,6 +7,7 @@
 - [【lets-go-coding】](https://github.com/luohong123/lets-go-coding)
 - [【AngularDragLayout可视化布局】](https://github.com/luohong123/AngularDragLayout)
 - [【Node.js + vue + WebSocket + 第三方登陆的聊天室】](https://github.com/luohong123/nvs-chat)
+- [【vue-online-resume开发者的在线编辑简历模版】](https://github.com/FE-free/vue-online-resume)
 ## 我参与的开源项目
 - [【reixs】](https://github.com/reixs/reixs)https://github.com/reixs/reixs
 
