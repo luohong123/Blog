@@ -5,6 +5,7 @@
 ## 我的开源项目
 - [【fc-angular】](https://github.com/luohong123/fc-angular)
 - [【lets-go-coding】](https://github.com/luohong123/lets-go-coding)
+- [【AngularDragLayout可视化布局】](https://github.com/luohong123/AngularDragLayout)
 ## 我参与的开源项目
 - [【reixs】](https://github.com/reixs/reixs)https://github.com/reixs/reixs
 
@@ -31,3 +32,9 @@
 感谢您的关注！
 
 <img src="https://github.com/luohong123/Blog/blob/master/assets/%E6%89%AB%E7%A0%81%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" alt="扫描关注公众号" width="95" />
+
+## 版权声明
+所有的原创文章的著作权属于 青成
+转载时烦请注意：
+- 如果是非商业的前提下免费转载，1. 请明确署名，标明 作者: 青成 2. 请注明文章的原始链接
+- 如需商业合作，请直接联系作者。
