@@ -8,6 +8,7 @@
 - [【AngularDragLayout可视化布局】](https://github.com/luohong123/AngularDragLayout)
 - [【Node.js + vue + WebSocket + 第三方登陆的聊天室】](https://github.com/luohong123/nvs-chat)
 - [【vue-online-resume开发者的在线编辑简历模版】](https://github.com/FE-free/vue-online-resume)
+- [【一行代码打包10-20个不同后台服务环境ng-multienv-build】](https://github.com/luohong123/ng-multienv-build)
 ## 我参与的开源项目
 - [【reixs】](https://github.com/reixs/reixs)https://github.com/reixs/reixs
 
