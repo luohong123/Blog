@@ -27,8 +27,10 @@
 - [【程序员】Web前端开发工程师的技术书籍分享](https://www.bilibili.com/video/BV1V7411K7km)
 - [【前端开发必备】GitHub源码查看技巧-chrome浏览器扩展程序插件Octotree](https://www.bilibili.com/video/BV1pE411M7NS)
 
-## 专栏
-- [掘金主页](https://juejin.im/user/5bbbff88e51d450e531cc1a2/posts)
+## 推荐关注
+您可以点击下面的地方关注我，欢迎交流～
+
+<img src="https://b-gold-cdn.xitu.io/v3/static/img/logo.a7995ad.svg" href="https://juejin.im/user/5bbbff88e51d450e531cc1a2/posts" alt="我的掘金主页" width="150" />
 
 ## 微信公众号
 分享优质、有趣、精致的前端技术知识文章，前端持续学习与进阶。
