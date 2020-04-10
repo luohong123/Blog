@@ -29,7 +29,7 @@
 
 ## 推荐关注
 您可以点击下面的地方关注我，欢迎交流～
-<a href="https://b-gold-cdn.xitu.io/v3/static/img/logo.a7995ad.svg"  target="_blank">
+<a href="https://juejin.im/user/5bbbff88e51d450e531cc1a2"  target="_blank">
   <img src="./assets/blog/junjin.png"   alt="我的掘金主页" width="250" height="120" />
 </a>
 ## 微信公众号
