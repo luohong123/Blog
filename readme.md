@@ -12,6 +12,7 @@
 ## 我参与的开源项目
 - [【reixs】](https://github.com/reixs/reixs)https://github.com/reixs/reixs
 
+
 ## 我的技术文章
 ### angular
 - [Angular8 + ng.ant.design 开箱即用](https://juejin.im/post/5d24045751882579da1ef4e8)
@@ -26,7 +27,7 @@
 ## 我的vlog视频录制
 - [【程序员】Web前端开发工程师的技术书籍分享](https://www.bilibili.com/video/BV1V7411K7km)
 - [【前端开发必备】GitHub源码查看技巧-chrome浏览器扩展程序插件Octotree](https://www.bilibili.com/video/BV1pE411M7NS)
-
+- flutter app https://pan.baidu.com/s/1ZlyZyvVCFTWbTIyl4nnLkg
 ## 推荐关注
 您可以点击下面的地方关注我，欢迎交流～
 <a href="https://juejin.im/user/5bbbff88e51d450e531cc1a2" target="_blank">
