@@ -27,7 +27,7 @@
 ## 我的vlog视频录制
 - [【程序员】Web前端开发工程师的技术书籍分享](https://www.bilibili.com/video/BV1V7411K7km)
 - [【前端开发必备】GitHub源码查看技巧-chrome浏览器扩展程序插件Octotree](https://www.bilibili.com/video/BV1pE411M7NS)
-- flutter app https://pan.baidu.com/s/1ZlyZyvVCFTWbTIyl4nnLkg
+- flutter app https://yt.neusoft.com:8088/static/files/apk/V0.0.2/YT-pms.apk
 ## 推荐关注
 您可以点击下面的地方关注我，欢迎交流～
 <a href="https://juejin.im/user/5bbbff88e51d450e531cc1a2" target="_blank">
