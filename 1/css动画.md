@@ -1,0 +1,6 @@
+- animation
+- transtion
+- requestAnimationFrame
+- svg
+- canvas
+- gif 
