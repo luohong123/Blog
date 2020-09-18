@@ -1,0 +1,30 @@
+<!--
+ * @Author: lh
+ * @Date: 2020-09-18 17:20:15
+ * @LastEditors: lh
+ * @LastEditTime: 2020-09-18 17:45:09
+ * @Description: 
+ * @email: 3300536651@qq.com
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        let nums = [1, 2, 3];
+        nums.forEach((item, index) => {
+            console.log(item, 'item==');
+            if (index == 0) {
+                throw Error('错误啦')
+            }
+        })
+    </script>
+</body>
+
+</html>

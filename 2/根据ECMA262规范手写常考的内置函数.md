@@ -1,0 +1,2 @@
+- [ECMA262规范](https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-262.pdf)
+- [V8](https://github.com/v8/v8/blob/ad82a40509c5b5b4680d4299c8f08d6c6d31af3c/src/js/array.js#L1132)
